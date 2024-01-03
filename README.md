@@ -1,8 +1,15 @@
-# React + Vite
+# Alphabet Game : https://alphabetgame.vercel.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+(unmute the video to hear the sound)
 
-Currently, two official plugins are available:
+https://github.com/uttamsah724/AlphabetGame/assets/77891287/ee1f40aa-e1ae-4842-bc60-247ccf1e4a1a
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+
+
+
+
+
