@@ -6,14 +6,14 @@ const AlphabetGame = () => {
   const audioRef = useRef(null);
 
   const alphabetData = [
-    { letter: 'A', word: 'Apple', gif: 'apple.gif', sound: './public/sounds/apple.mp3' },
-    { letter: 'B', word: 'Bear', gif: 'bear.gif', sound: './public/sounds/bear.mp3' },
-    { letter: 'C', word: 'Coin', gif: 'coin.gif', sound: './public/sounds/coin.mp3' },
-    { letter: 'D', word: 'Duck', gif: 'duck.gif', sound: './public/sounds/duck.mp3' },
-    { letter: 'E', word: 'Eye', gif: 'eye.gif', sound: './public/sounds/eye.mp3' },
-    { letter: 'F', word: 'Food-Truck', gif: 'food-truck.gif', sound: './public/sounds/food-truck.mp3' },
-    { letter: 'G', word: 'Gift', gif: 'gift.gif', sound: './public/sounds/gift.mp3' },
-    { letter: 'H', word: 'Home', gif: 'home.gif', sound: './public/sounds/home.mp3' },
+    { letter: 'A', word: 'Apple', gif: 'apple.gif', sound: 'sounds/apple.mp3' },
+    { letter: 'B', word: 'Bear', gif: 'bear.gif', sound: 'sounds/bear.mp3' },
+    { letter: 'C', word: 'Coin', gif: 'coin.gif', sound: 'sounds/coin.mp3' },
+    { letter: 'D', word: 'Duck', gif: 'duck.gif', sound: 'sounds/duck.mp3' },
+    { letter: 'E', word: 'Eye', gif: 'eye.gif', sound: 'sounds/eye.mp3' },
+    { letter: 'F', word: 'Food-Truck', gif: 'food-truck.gif', sound: 'sounds/food-truck.mp3' },
+    { letter: 'G', word: 'Gift', gif: 'gift.gif', sound: 'sounds/gift.mp3' },
+    { letter: 'H', word: 'Home', gif: 'home.gif', sound: 'sounds/home.mp3' },
   ];
 
   const handleLetterClick = (letter) => {
